@@ -24,4 +24,4 @@ Esse projeto foi feito durante as aulas sobre o aprendizado do REACT com o Javas
 
 Você pode está visualizando a página nestes links abaixo:
 
-* **Página no [GitHub Pages](https://downzin01.github.io/Organo-Alura/)**
+* **Página no [VERCEL](https://organo-alura-mu.vercel.app)**
